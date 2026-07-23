@@ -1,11 +1,10 @@
 ## Screenshots
 
 ### System Information
+[![Hostname](screenshots/hostnamectl.png)](screenshots/hostnamectl.png)
 
-![hostnamectl](screenshots/hostnamectl.png)
+[![CPU](screenshots/lscpu.png)](screenshots/lscpu.png)
 
-![CPU Information](screenshots/lscpu.png)
+[![Memory](screenshots/free.png)](screenshots/free.png)
 
-![Memory Information](screenshots/free.png)
-
-![Disk Layout](screenshots/lsblk.png)
+[![Disk](screenshots/lsblk.png)](screenshots/lsblk.png)
