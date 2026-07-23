@@ -2,10 +2,10 @@
 
 ### System Information
 
-![Hostname](Screenshots/hostnamectl.png)
+[![Hostname](hostnamectl.png)](hostnamectl.png)
 
-![CPU](Screenshots/lscpu.png)
+[![CPU](lscpu.png)](lscpu.png)
 
-![Memory](Screenshots/free-h.png)
+[![Memory](free-h.png)](free-h.png)
 
-![Disk Layout](Screenshots/lsblk.png)
+[![Disk Layout](lsblk.png)](lsblk.png)
