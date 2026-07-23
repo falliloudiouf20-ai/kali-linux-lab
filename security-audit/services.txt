@@ -1,0 +1,43 @@
+  UNIT                          LOAD   ACTIVE SUB     DESCRIPTION
+  accounts-daemon.service       loaded active running Accounts Service
+  bluetooth.service             loaded active running Bluetooth service
+  bolt.service                  loaded active running Thunderbolt system service
+  clamav-freshclam.service      loaded active running ClamAV virus database updater
+  colord.service                loaded active running Manage, Install and Generate Color Profiles
+  containerd.service            loaded active running containerd container runtime
+  cron.service                  loaded active running Regular background program processing daemon
+  dbus.service                  loaded active running D-Bus System Message Bus
+  docker.service                loaded active running Docker Application Container Engine
+  fwupd.service                 loaded active running Firmware update daemon
+  gdm.service                   loaded active running GNOME Display Manager
+  haveged.service               loaded active running Entropy Daemon based on the HAVEGE algorithm
+  lynis.service                 loaded active running Security audit and vulnerability scanner
+  ModemManager.service          loaded active running Modem Manager
+  NetworkManager.service        loaded active running Network Manager
+  pcscd.service                 loaded active running PC/SC Smart Card Daemon
+  polkit.service                loaded active running Authorization Manager
+  postgresql@18-main.service    loaded active running PostgreSQL Cluster 18-main
+  power-profiles-daemon.service loaded active running Power Profiles daemon
+  rsyslog.service               loaded active running System Logging Service
+  rtkit-daemon.service          loaded active running RealtimeKit Scheduling Policy Service
+  smartmontools.service         loaded active running Self Monitoring and Reporting Technology (SMART) Daemon
+  snapd.service                 loaded active running Snap Daemon
+  suricata.service              loaded active running Suricata IDS/IDP daemon
+  systemd-journald.service      loaded active running Journal Service
+  systemd-logind.service        loaded active running User Login Management
+  systemd-oomd.service          loaded active running Userspace Out-Of-Memory (OOM) Killer
+  systemd-timesyncd.service     loaded active running Network Time Synchronization
+  systemd-udevd.service         loaded active running Rule-based Manager for Device Events and Files
+  systemd-userdbd.service       loaded active running User Database Manager
+  udisks2.service               loaded active running Disk Manager
+  upower.service                loaded active running Daemon for power management
+  user@1000.service             loaded active running User Manager for UID 1000
+  uuidd.service                 loaded active running Daemon for generating UUIDs
+  windscribe-helper.service     loaded active running Windscribe helper service
+  wpa_supplicant.service        loaded active running WPA supplicant
+
+Legend: LOAD   → Reflects whether the unit definition was properly loaded.
+        ACTIVE → The high-level unit activation state, i.e. generalization of SUB.
+        SUB    → The low-level unit activation state, values depend on unit type.
+
+36 loaded units listed.

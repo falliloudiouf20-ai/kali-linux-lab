@@ -1,0 +1,8 @@
+Matching Defaults entries for anonlilu on kali:
+    secure_path=/usr/sbin\:/usr/bin\:/sbin\:/bin
+
+Runas and Command-specific defaults for anonlilu:
+    Defaults!/usr/sbin/visudo env_keep+="SUDO_EDITOR EDITOR VISUAL"
+
+User anonlilu may run the following commands on kali:
+    (ALL : ALL) ALL

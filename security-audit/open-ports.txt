@@ -1,0 +1,16 @@
+Netid State  Recv-Q Send-Q                    Local Address:Port  Peer Address:PortProcess
+udp   UNCONN 0      0                        10.245.154.105:3702       0.0.0.0:*    users:(("python3",pid=1419996,fd=9))
+udp   UNCONN 0      0                       239.255.255.250:3702       0.0.0.0:*    users:(("python3",pid=1419996,fd=7))
+udp   UNCONN 0      0                            172.17.0.1:3702       0.0.0.0:*    users:(("python3",pid=1419996,fd=15))
+udp   UNCONN 0      0                       239.255.255.250:3702       0.0.0.0:*    users:(("python3",pid=1419996,fd=13))
+udp   UNCONN 0      0                            172.18.0.1:3702       0.0.0.0:*    users:(("python3",pid=1419996,fd=12))
+udp   UNCONN 0      0                       239.255.255.250:3702       0.0.0.0:*    users:(("python3",pid=1419996,fd=10))
+udp   UNCONN 0      0                               0.0.0.0:36806      0.0.0.0:*    users:(("python3",pid=1419996,fd=11))
+udp   UNCONN 0      0                               0.0.0.0:46822      0.0.0.0:*    users:(("firefox-esr",pid=1085726,fd=253))
+udp   UNCONN 0      0                               0.0.0.0:42310      0.0.0.0:*    users:(("python3",pid=1419996,fd=14))
+udp   UNCONN 0      0                               0.0.0.0:51088      0.0.0.0:*    users:(("python3",pid=1419996,fd=8))
+udp   UNCONN 0      0      [fe80::46d0:4f80:fc9b:100]%wlan0:3702          [::]:*    users:(("python3",pid=1419996,fd=18))
+udp   UNCONN 0      0                       [ff02::c]%wlan0:3702          [::]:*    users:(("python3",pid=1419996,fd=16))
+udp   UNCONN 0      0                                     *:53472            *:*    users:(("python3",pid=1419996,fd=17))
+tcp   LISTEN 0      4096                          127.0.0.1:37793      0.0.0.0:*   
+tcp   LISTEN 0      200                           127.0.0.1:5432       0.0.0.0:*   
